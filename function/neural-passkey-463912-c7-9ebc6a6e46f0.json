@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neural-passkey-463912-c7",
+  "private_key_id": "9ebc6a6e46f000e63da673e880945f35fb5a87ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfi1kUB3d/LZyb\n9LB4cwaoaRu4jhST6Wzu6d81j5OnCdZ31np4c+9PDNn68uWQLQQTmnz6tzMplzm9\n+cMKJFy26avwA36qgrvnzByA5TBdFQmJ5331YdRND2Hbn+/e/brGOh5mBYLUCAkd\nTlfK1DM9UQ8YK8WghHnPJCDFSi01kNVPJk/WbsZUdfIDxIOQ/cvanJ09T3ZMtuII\nziC9FwqD2StvCFgEDrRZ2zkYF8nSZwWkCm4SvFRCnScDXHBDRJVtCRHM6HObgo8v\n1OKAAhgXy9n2diAlvvMXL0jcVVyeZDbvy1d63dTNmLxKIIHmH3SXqoTMfvh07nx7\nuTiIVkYtAgMBAAECggEANXufoWy9XMdcDBXTQJWCwlr13YDXmhvylgaVel2GqETO\nff7KsG1g6DWNLyhU12eXycCMq/lU79jPlQVQoio9YF3l8wAg6qUHu7U7SuRJubJv\nL6kIGwWwByMkcVzkqvKQtZnPDfFEAbMt5wKXwJkxEhmFv1sRFXXDZbKdP7XVgPJk\nZwNnDBTxDhyowi+zw4xFAF8pugbucVXnvNC+bQnkSyyi/3DlImRL9zcmn7xh0+un\nE0nLfsklwu1FO80vykMF5clnndyXrYdyq0RLy3EAgtuaSQ9TFxgepvtOzB9im3gs\nBUfVpfzQbnwhc0/GSyR5UNLW1YTrrU/wcWidPQbzKwKBgQDLuCx//JyzGDTV2u6X\numwMmyOgdTtditZShYy+Cezf+4zn2jboFjFfl71OtRed/sjNHxDouTpnfQxoPnv2\n+gbgkvY5ZiM3wD9nks3dHSYNvLUrQIeZGIPlBe9qI/5oov8hjJro+20hUWDKhmG0\nidSOHVmPuHNHrtrGffey5G6ZLwKBgQDIfPy2ctR317PHMm0ViKYHFwNdopQv905G\nJtbp5pbi1usS+8xqAx0eXrgyYJapqJ1aS4GIF8Yk3biAcFsycHuqt2RnBPNxAJD/\nQJyZDka5w0c8oXCD9Xl9+hupkWOU6qiZLZDkWnwWKT1/YNwDijTKRnXySImMDc78\nuUp47PtHYwKBgHbscv3cB9X9AYr+HV5xs3XAcxHOnfNDg031LG4b+S3f+Se4GWlu\n2y/EsvxpdvoCrFIiGorg5plXRJDuOQu6dZ1P7XEgkNqQ3fKmnoq/42ENkm1HZGEZ\nEJX32wWJMZD/5hQ9sojjjZdvnCNeQ1dTRsQXmhruQE3OY2SQULMb6vx9AoGBAKq6\njPXNiZNYk5bBIVWiHUiSV2JobWr/XZ+tuXxLyhf3zw1GccehSS2wmYkE6agml4Dq\nJa9AF5MTYOe3RmIImbdCHvT/qVOEmPVVD0Xje2T7n3FJRSiKZOBbmSzoS3Xn8pUm\n0Wk0iNDSY7VSRWmaSuQp5ozhKoiixa4/F+UsYbtjAoGBAMH+l+XeXYmKHhFUKt5l\ngj40xwwwBdmu2H7Nr3UhffrwcHL3DVmpe6/cKbpozvqXU+EpaOOCfnatEzpKZzSa\nM1oNyacLo+c9yxgwSiWGHN3f94wmYI2XpWUG8zfk3a8UZSVqn6Bo5//H4igBVUvd\nuUBamb6H2o/sCW8hnKkpfKSY\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-554@neural-passkey-463912-c7.iam.gserviceaccount.com",
+  "client_id": "103704095436611335574",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-554%40neural-passkey-463912-c7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
